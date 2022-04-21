@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- I still need to add alot of features to Plat-Byte but I am working alone and working as fast as I can -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plat-Byte</title>
+    <link rel="stylesheet" href="dinner.css">
+</head>
+<body style="background-color: rgb(66, 65, 71);">
+    <div class="container">
+    <header><img src="platbytelogo.jpeg" alt="platbyte official logo"> </header>
+    <nav> 
+        <a href="#">HOME</a><a href="#">MERCHANDISE</a><a href="#">STICKERS</a><a href="#">SHOUT</a><a href="#">CONTACT US</a><a href="#">ABOUT US</a>
+    </nav>
+    <main>
+    <h2>Welcome To Plat-Byte</h2>   
+    <p>Plat-Byte is a community driven forum based on popular topics</p>
+    <p>The ability to say what you want when you want is important as it is the foundation of Plat-Byte. </p> 
+    <p class="para1"> anyone can post comments and share images. There are boards dedicated to a variety of topics, from Japanese animation and culture to videogames, music, and photography. Users do not need to register an account before participating in the community. Feel free to click on a board below that interests you and jump right in!
+    </p>
+    <div class="usershoutoutdiv">
+     
+        </div>
+    <a href="dietingregime.html" target="">
+        <p>Learn more about Plat-Bytes Creator</p>
+    </a>
+    <p>TOPIC SECTION</p>
+    </main>
+    <div class="thenewdiv">
+       <ul>
+           <li>Agriculture</li>
+           <li>Farming</li>
+           <li>Land</li>
+       </ul>
+    </div>
+    <footer><p>South Africa Registered LTD <br> For any suggestions contact us at <a href="mailto:Vonduschglobal@gmail.com?subject=Bugs&Improvements" class="contactemail">Vonduschglobal@gmail.com</a> <br> Copyright 2022©</p>
+            
+    </footer>
+    <!-- this is my first website I have built and taken seriously -->
+</div>
+
+    
+</body>
+</html>
+<!-- if you have any questions feel free to email me at peterhendricks1997@gmail.com -->
+<!-- remember comments are created using cntrl+forward slash -->
